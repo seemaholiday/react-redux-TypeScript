@@ -1,0 +1,26 @@
+.App{
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+}
+.flex-Css{
+  display: 'flex';
+  border: 2px solid #767678;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: chocolate;
+}
+.flex-Css input{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+}
+.flex-Css button{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+table, th, td {
+  border: 1px solid;
+}
